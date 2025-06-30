@@ -1,0 +1,7 @@
+/.idea
+/__pycache__
+.idea/*
+/.idea/workspace.xml
+*.doc
+*.docx
+*.txt
